@@ -10,7 +10,7 @@ nesse projeto foi utilizado várias funçoes, Object literals, eventos como onsu
 
 ### Deploy
 
-acesse [aqui](hhttps://rafagnx.github.io/TEMPORIZADOR/)
+acesse [aqui](https://rafagnx.github.io/TEMPORIZADOR/)
 
 ## Tecnologias
 - HTML
